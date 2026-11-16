@@ -94,7 +94,3 @@ The application starts the configured number of threads and waits for all of the
 - Each thread currently sends the same email to the configured recipient.
 - Excessive concurrent connections may trigger Gmail limits.
 - Intended for educational purposes and experimentation with Python multithreading and SMTP.
-
-## License
-
-MIT License.
