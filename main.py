@@ -1,3 +1,6 @@
+#AUTHOR: MARCIANO MATTIA FELICE
+#DATE: 16/11/2026
+
 import os
 import smtplib
 import threading
